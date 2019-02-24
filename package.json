@@ -1,0 +1,40 @@
+{
+    "name": "noctilux-theme",
+    "version": "0.0.1",
+    "publisher": "madgrid",
+    "engines": {
+        "vscode": "*"
+    },
+    "displayName": "Noctilux Theme",
+    "description": "Based on emacs noctilux theme.",
+    "categories": [
+        "Themes"
+    ],
+    "keywords": [
+        "Noctilux",
+        "Theme"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Noctilux",
+                "uiTheme": "vs-dark",
+                "path": "./themes/noctilux-color-theme.json"
+            }
+        ]
+    },
+    "icon": "icon.png",
+    "galleryBanner": {
+        "color": "#0a0b0a",
+        "theme": "dark"
+    },
+    "homepage": "https://github.com/madgrid/vscode-noctilux/blob/master/README.md",
+    "bugs": {
+        "url": "https://github.com/madgrid/vscode-noctilux/issues",
+        "email": "madgrid@gmail.com"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/madgrid/vscode-noctilux"
+    }
+}

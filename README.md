@@ -1,3 +1,3 @@
 # Preview
 
-![Preview](https://i.imgur.com/74o7rwo.png)
+![Preview](https://i.imgur.com/L2D168F.png)
